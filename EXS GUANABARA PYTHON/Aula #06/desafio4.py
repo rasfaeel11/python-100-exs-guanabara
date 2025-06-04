@@ -1,0 +1,7 @@
+variavel = input("digite qualquer coisa: ")
+print(type(variavel))
+print(variavel.isnumeric())
+print(variavel.isalnum())
+print(variavel.isupper())
+print(variavel.islower())
+print(variavel.isalpha())
